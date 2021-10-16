@@ -20,3 +20,4 @@
 // index page
 ![abstract-fantasy-art-simple-background-digital-art-wallpaper-thumb](https://github.com/magicickey/amadeusdesign/blob/main/abstract-fantasy-art-simple-background-digital-art-wallpaper-thumb.jpg?raw=true)
 
+![GettyImages-544684146](https://github.com/magicickey/amadeusdesign/blob/main/GettyImages-544684146.jpg?raw=true)

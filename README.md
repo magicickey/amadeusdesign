@@ -12,4 +12,4 @@
 ![blame-cibo-sci-fi-manga-wallpaper-preview](https://github.com/magicickey/amadeusdesign/blob/main/blame-cibo-sci-fi-manga-wallpaper-preview.png?raw=true)
 ![newletter](https://github.com/magicickey/amadeusdesign/blob/main/newletter.jpeg?raw=true)
 ![wallpaperbetter.com_1920x1080](https://github.com/magicickey/amadeusdesign/blob/main/wallpaperbetter.com_1920x1080.jpg?raw=true)
-![](
+![workzone](https://github.com/magicickey/amadeusdesign/blob/main/workzone.jpeg?raw=true)

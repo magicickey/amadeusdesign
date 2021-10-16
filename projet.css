@@ -12,7 +12,7 @@
 
 
 *** FONTS ***/
-@import url(https://fonts.googleapis.com/css?family=Montserrat:900|Raleway:400,400i,700,700i);
+@import url(https://fonts.googleapis.com/css2?family=Anton&display=swap:400,400i,700,700i);
 
 
 
@@ -50,7 +50,7 @@ body {
 body {
   background-color: $url('GettyImages-544684146.jpg');
   color: $white;
-  font-family: 'Raleway', sans-serif;
+  font-family: font-family: 'Anton', sans-serif;
 }
 
 main {

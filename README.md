@@ -10,3 +10,4 @@
 ![a2](https://github.com/magicickey/amadeusdesign/blob/main/a2.jpeg?raw=true)
 ![a3](https://github.com/magicickey/amadeusdesign/blob/main/a3.jpeg?raw=true)
 ![blame-cibo-sci-fi-manga-wallpaper-preview](https://github.com/magicickey/amadeusdesign/blob/main/blame-cibo-sci-fi-manga-wallpaper-preview.png?raw=true)
+![newletter](https://github.com/magicickey/amadeusdesign/blob/main/newletter.jpeg?raw=true)

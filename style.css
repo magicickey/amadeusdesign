@@ -35,7 +35,7 @@ body {
 
 header {
  color: white;
- background-color:none;
+ background-color:black;
  background-image:url("GettyImages-544684146.jpg");
   display:flex-center;
    padding: 70px 0;
@@ -69,8 +69,8 @@ h1 {
   
 
 nav {
- background-color:none;
- color:white;
+ background-color:blaxk;
+ color:red;
   display:flex-block;
   justify-content: flex-end;
 	display: center;

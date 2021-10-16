@@ -14,3 +14,5 @@
 ![wallpaperbetter.com_1920x1080](https://github.com/magicickey/amadeusdesign/blob/main/wallpaperbetter.com_1920x1080.jpg?raw=true)
 ![workzone](https://github.com/magicickey/amadeusdesign/blob/main/workzone.jpeg?raw=true)
 ![474225888](https://github.com/magicickey/amadeusdesign/blob/main/474225888.png?raw=true)
+// parallax de projet
+![deer-geometry-wireframe-artwork-wallpaper-preview](https://github.com/magicickey/amadeusdesign/blob/main/deer-geometry-wireframe-artwork-wallpaper-preview.jpg?raw=true)

@@ -38,7 +38,7 @@ header {
  background-color:black;
  background-image:url("GettyImages-544684146.jpg");
   display:flex-center;
-   padding: 70px 0;
+   padding: auto 0;
    
    font-size:21px;
 }
@@ -47,7 +47,7 @@ header .row,
 footer .row {
   color:white;
   background-color:blue;
-background-image:url("GettyImages-544684146.jpg");
+background-image:url("3D-Backgrounds-1920x1080.jpg");
  
 
   
@@ -82,8 +82,8 @@ nav {
 
 a {
 color: white;
-  padding: 21px ;
-  margin:  21px;
+  padding: auto ;
+  margin:  auto;
 }
   
   a {
@@ -110,7 +110,7 @@ display :center-block;
 background-image:url('');
   font-size: 27px;
   font-weight: 16px;
-  margin: 8px;
+  margin: auto;
   color:white ;
  
 

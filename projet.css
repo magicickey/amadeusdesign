@@ -48,7 +48,7 @@ body {
 }
 
 body {
-  background-color: $url('1567666.png');
+  background-color: $url('GettyImages-544684146.jpg');
   color: $white;
   font-family: 'Raleway', sans-serif;
 }
@@ -67,7 +67,7 @@ ol.gradient-list {
   margin: 1.75rem 0;
   padding-left: 1rem;
   > li {
-    background: white;
+    background: black;
     border-radius: 0 0.5rem 0.5rem 0.5rem;
     @extend %boxshadow;
     counter-increment: gradient-counter;

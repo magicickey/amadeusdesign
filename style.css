@@ -25,7 +25,7 @@
 body {
   font-family: 'Anton', sans-serif;
   background-color:black;
-	background-image:url("abstrait-vert-geometrique_52683-30019.jpg");
+	background-image:url("");
 	color: white;
        font-size: 21px;
   
@@ -36,7 +36,7 @@ body {
 header {
  color: white;
  background-color:none;
- background-image:url('abstrait-vert-geometrique_52683-30019.jpg");
+ background-image:url('");
   display:flex-center;
    padding: 70px 0;
    
@@ -47,7 +47,7 @@ header .row,
 footer .row {
   color:white;
   background-color:black;
-background-image:url("abstrait-vert-geometrique_52683-30019.jpg");
+background-image:url("");
  
 
   

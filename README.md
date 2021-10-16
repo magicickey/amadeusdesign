@@ -16,3 +16,4 @@
 ![474225888](https://github.com/magicickey/amadeusdesign/blob/main/474225888.png?raw=true)
 // parallax de projet
 ![deer-geometry-wireframe-artwork-wallpaper-preview](https://github.com/magicickey/amadeusdesign/blob/main/deer-geometry-wireframe-artwork-wallpaper-preview.jpg?raw=true)
+![artwork-simple-background-blue-stars-wallpaper-preview](https://github.com/magicickey/amadeusdesign/blob/main/artwork-simple-background-blue-stars-wallpaper-preview.jpg?raw=true)

@@ -14,3 +14,200 @@
 @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) { ... }
 @media (min-width: @screen-md-min) and (max-width: @screen-md-max) { ... }
 @media (min-width: @screen-lg-min) { ... }
+
+/* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+  .parallax {
+    background-attachment: scroll;
+  }
+}
+
+body {
+  font-family:'Orbitron', sans-serif';
+  background-color:black;
+	background-image:url("1567666.png");
+	color: white;
+       font-size: 21px;
+  
+  
+  
+}
+
+header {
+ color: white;
+ background-color:none;
+ background-image:url('1567666.png");
+  display:flex-center;
+   padding: 70px 0;
+   
+   font-size:21px;
+}
+
+header .row,
+footer .row {
+  color:white;
+  background-color:black;
+background-image:url("");
+ 
+
+  
+ display: center;
+  align-items: center;
+  color:white;
+  background-color:none;
+  
+}
+
+h1 {
+  color:;
+   
+  height: flex-bottom;
+  font-weight: 16px;
+  margin: 19px;
+  display:center;
+  
+  
+
+nav {
+ background-color:none;
+ color:white;
+  display:flex-block;
+  justify-content: flex-end;
+	display: center;
+
+  
+
+  
+  
+
+a {
+color: white;
+  padding: 21px ;
+  margin:  21px;
+}
+  
+  a {
+	color: white; text-decoration:none;
+}
+	a:hover {
+		color:silver;
+	}
+
+.jumbotron {
+  display:center;
+
+  align-items: flex;
+  border-image-outset: 11px ;
+display :center-block;
+
+  background-size:cover;
+  color:white;
+  background-color:black;
+  height: 11px;
+}
+
+.jumbotron h2 {
+background-image:url('');
+  font-size: 27px;
+  font-weight: 16px;
+  margin: 8px;
+  color:white ;
+ 
+
+ 
+ 
+ 
+}
+
+.jumbotron h3 {
+  Font-size: 16px;
+  margin: 0 0 8px;
+  color:white;
+  background-color:none;
+  display:center;
+ 
+}
+
+section .row img {
+  color:none;
+  display: center;
+  
+
+  margin: 1px;
+  width: 1px;
+  
+}
+
+.col-md-6 {
+  color: white;
+  background-color:none ;
+  margin: 0 0 auto;
+}
+
+.btn.btn-primary {
+  border-radius: 11px;
+  border: 11px;
+  color:white;
+  background-color:none ;
+}
+
+.btn.btn-primary:hover {
+  color:white;
+  background-color:none;
+	display: center;
+}
+
+.btn-secondary {
+  background-color:white ;
+  color:red;
+  margin: 0 0 0 7px
+}
+.button {
+  display: center;
+  color:silver;
+  }
+  
+.portrait {
+  color:none;
+  
+  width:  0 auto;
+  height: 0 auto;
+}
+
+figure img {
+  color:white;
+  width: 3px;
+  height: 3px;
+  background-color:none;
+
+}
+
+figure {
+  margin-bottom:none;
+  color:#FFD700;
+	display:center;
+}
+
+footer {
+  font-size: 7px;
+  padding: 7px 0;
+  color:white;
+  background-color:black;
+
+
+
+
+
+
+footer .col-sm-8 {
+  background-color:black;
+  color:white;
+  display:flex-center;
+  justify-content:flex-end;
+}
+
+footer ul {
+  color:white;
+  background-color:none;
+  list-style: flex;
+}
